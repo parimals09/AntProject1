@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="ABCD">
+
+    <test name="Reg1">
+        <classes>
+            <class name="abc.testng.A1"/>
+            <class name="abc.testng.A2"/>
+            <class name="abc.testng.A3"/>
+            <class name="abc.testng.A4"/>
+        </classes>
+      </test> 
+   </suite>
